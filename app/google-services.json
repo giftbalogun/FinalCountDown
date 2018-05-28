@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "199325902397",
+    "firebase_url": "https://finalcovenantuniversity.firebaseio.com",
+    "project_id": "finalcovenantuniversity",
+    "storage_bucket": "finalcovenantuniversity.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199325902397:android:57233704126f4256",
+        "android_client_info": {
+          "package_name": "com.example.engrbalogungift.finalcovenantuniversity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "199325902397-89qg9sgifkgpsptmqkvo4p85ig4cst5v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.engrbalogungift.finalcovenantuniversity",
+            "certificate_hash": "7f6d2960f3a33edb844904ee2e9a300c6d92db83"
+          }
+        },
+        {
+          "client_id": "199325902397-k2n0u5457fii8biaumvb8ovmr6rl86dm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzclzs_pcRaVfsUSfK2bGV5fcsLlKIt1g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "199325902397-k2n0u5457fii8biaumvb8ovmr6rl86dm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
